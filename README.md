@@ -1,4 +1,4 @@
-# 🚀 Spam Classification & Generation Project
+#  Spam Classification & Generation Project
 
 A complete NLP pipeline that detects spam messages and enhances the dataset using a character-level generative LSTM model. This project combines traditional machine learning with deep learning approaches and includes data augmentation via spam-like sentence generation.                              
 
@@ -78,7 +78,7 @@ A complete NLP pipeline that detects spam messages and enhances the dataset usin
 
 ---
 
-## 🔄 Evaluation Metrics   
+##  Evaluation Metrics   
 
 - Accuracy   
 - Precision / Recall / F1   
@@ -87,7 +87,7 @@ A complete NLP pipeline that detects spam messages and enhances the dataset usin
 
 ---
 
-## 🔧 Technologies Used   
+##  Technologies Used   
 
 - Python   
 - Pandas, NumPy   
@@ -98,7 +98,7 @@ A complete NLP pipeline that detects spam messages and enhances the dataset usin
 
 ---
 
-## 💼 Usage   
+##  Usage   
 
 ```bash
 # Clone repository
@@ -113,7 +113,7 @@ Open and execute main.ipynb in Jupyter Lab or Jupyter Notebook
 
 ---
 
-## 🚀 Future Improvements   
+##  Future Improvements   
 
 - Replace Word2Vec with BERT or other contextual embeddings   
 - Hyperparameter tuning   
@@ -128,6 +128,6 @@ Dataset from public SMS spam corpus. Project structure inspired by end-to-end NL
 
 ---
 
-## 🌐 License   
+##  License   
 
 MIT License
